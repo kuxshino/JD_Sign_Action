@@ -63,4 +63,4 @@
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 sharingman
 sharingman
-sharingman360
+sharingman36
